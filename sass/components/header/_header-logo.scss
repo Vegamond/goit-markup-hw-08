@@ -1,0 +1,17 @@
+.header__logo {
+    color: var(--title-text-color);
+    font-family: "Raleway";
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    text-decoration: none;
+    color: var(--accent-color);
+    margin-right: 93px;
+    padding: 24px 0;
+}
+
+.header__logo__dus {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    color: var(--header-logo-dark-color);
+}
